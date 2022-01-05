@@ -14,8 +14,8 @@
 <br>
 
 <div>
-  <img height='192em' src='https://github-readme-stats.vercel.app/api?username=raaphiixx&show_icons=true&theme=highcontrast'/>
-  <img height='190em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=raaphiixx&layout=compact&theme=highcontrast'/>
+  <img height='180em' src='https://github-readme-stats.vercel.app/api?username=raaphiixx&show_icons=true&theme=highcontrast'/>
+  <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=raaphiixx&layout=compact&theme=highcontrast'/>
  </div>
 
  <div style='display: inline_block'><br>
