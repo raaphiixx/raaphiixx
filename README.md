@@ -5,8 +5,12 @@
 <p>⭐ Pronomes: Ele / Dele / Ô Vei! ⭐</p>
 <hr>
 
+<h2 align='center'>🙋‍♂️ Deixa eu me apresentar... 🙋‍♂️</h2>
+<p>Me chamo Raphael Cazer, tenho 24 anos e estou no último semestre da faculdade de análise e desenvolvimento de sistemas, famosa ADS, estou aqui procurando minha primeira oportunidade de trabalho na área de Dev. Trabalho desde os 14 anos na área do comércio e estou buscando novos horizontes.</p>
+<p>Tinha muito receio de publicar meu desenvolvimento aqui no Github por acreditar que aqui só continham grandes projetos, mas resolvi utilizar o ano de 2022 para publicar minha evolução.</p>
+
 <div style='display: inline_block' align='center'>
-  <h2 align='center'>Linguagens/Frameworks que atualmente estudo</h2>
+  <h2 align='center'>📓 Linguagens/Frameworks que atualmente estudo 📓</h2>
   <a href='https://github.com/raaphiixx/Python' target='_blank'><img height='80em' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' /></a>
   <a href='https://github.com/raaphiixx/aprendendo_django' target='_blank'><img height='80em' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg' /></a>
   <a href='https://github.com/raaphiixx/H2L' target='_blank'><img height='80em' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' /></a>
