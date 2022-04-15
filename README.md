@@ -12,7 +12,7 @@
 <div style='display: inline_block' align='center'>
   <h2 align='center'>📓 Linguagens/Frameworks que atualmente estudo 📓</h2>
   <a href='https://github.com/raaphiixx/Python' target='_blank'><img height='80em' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' /></a>
-  <a href='https://github.com/raaphiixx/aprendendo_django' target='_blank'><img height='80em' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg' /></a>
+  <a href='https://github.com/raaphiixx/Bootcamp-dio/tree/master/Projetos/diomysql' target='_blank'><img height='80em' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg' /></a>
   <a href='https://github.com/raaphiixx/H2L' target='_blank'><img height='80em' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' /></a>
   <a href='https://github.com/raaphiixx/H2L' target='_blank'><img height='80em' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' /></a>
 </div>
