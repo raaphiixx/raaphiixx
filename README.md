@@ -1,6 +1,8 @@
 👋 Olá, sou Raphael Cazer.
 
-🌍 Soteropolitano em Portugal | 🌱 Estudante de Java e Spring Boot | 💻 Apaixonado por Programação | 🤷🏽‍♂️ Pronomes: Ele / Dele / Ô Vei!
+🌍 Soteropolitano em Portugal | 🌱 Estudante de Java e Spring Boot
+
+💻 Apaixonado por Programação | 🤷🏽‍♂️ Pronomes: Ele / Dele / Ô Vei!
 
 ## Sobre Mim
 Sou um apaixonado por tecnologia e programação, nascido em Salvador, Brasil, e atualmente vivendo em Portugal. Minha jornada na programação começou com a busca pelo conhecimento e pelo desejo de criar soluções inovadoras. Estou focado em aprimorar minhas habilidades em Java, com ênfase especial em Spring Boot, para construir aplicaçãoes de alto desempenho.
@@ -24,7 +26,6 @@ Estou em busca de oportunidades de aprendizado e colaboração em projetos que e
 ## Vamos Conectar
 Estou sempre aberto a aprender com a comunidade de desenvolvedores e a compartilhar conhecimento. Vamos nos conectar e explorar como podemos trabalhar juntos em projetos empolgantes!
 
-## Entre em Contato
 <a href='https://www.linkedin.com/in/raphaelcazer/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
 
 <a href='mailto:raphaatwork@gmail.com' target='_blank'><img src = 'https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
